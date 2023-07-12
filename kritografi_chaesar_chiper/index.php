@@ -172,7 +172,7 @@
                 <!--Grid column-->
                 <div class="col-md-8 col-lg-8">
                     <!--Copyright-->
-                    <p class="text-center text-md-left grey-text">© 2022 Copyright Lukman Hakim - 201511030</p>
+                    <p class="text-center text-md-left grey-text">© 2023 Copyright Lukman Hakim - 201511030</p>
                     <!--/.Copyright-->
                 </div>
                 <!--Grid column-->
